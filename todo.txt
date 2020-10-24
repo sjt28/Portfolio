@@ -1,0 +1,5 @@
+#TODO:
+
+Make a project with Elizabeth
+Work out the best way to display stuff here
+Get someone to show me how to connect this to my computer's terminal.
